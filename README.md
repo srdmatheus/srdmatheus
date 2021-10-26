@@ -1,6 +1,6 @@
 # Olá, bem-vindo ao meu perfil🤘
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="360px" max-width="360px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
   Me chamo Matheus!<br>
