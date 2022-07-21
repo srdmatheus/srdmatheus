@@ -5,7 +5,7 @@
 
 <p align="left"> 
   Me chamo Matheus!<br>
-  Desde o início de 2021, estudo programação para a web, focado, atualmente, no desenvolvimento <strong>front-end</strong>.<br>
+  Desde o início de 2021 estudo programação para a web, focado atualmente, em desenvolvimento <strong>front-end</strong>.<br>
 </p>
 
 <p align="left">
