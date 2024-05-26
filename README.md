@@ -1,11 +1,6 @@
 ## Olá, bem-vindo ao meu perfil🤘
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
-
-
-<p align="left"> 
-  Me chamo Matheus!
-</p>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 <p align="left">
   💻 Focado atualmente no desenvolvimento <strong>Front-end</strong>, utilizando o ecossistema JavaScript (React JS | Next JS | TypeScript | HTML | CSS).
