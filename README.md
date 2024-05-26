@@ -6,10 +6,6 @@
 <p align="left"> 
   Me chamo Matheus!
 </p>
-<p>
-  Curioso por natureza, atento aos detalhes por hábito, empático por escolha. Responsável nos compromissos e ciente da importância da saúde física e emocional.
-</p>
-<br>
 
 <p align="left">
   💻 Focado atualmente no desenvolvimento <strong>Front-end</strong>, utilizando o ecossistema JavaScript (React JS | Next JS | TypeScript | HTML | CSS).
@@ -19,12 +15,9 @@
   🎓 Graduando em Análise e Desenvolvimento de Sistemas
 </p>
 
-<p align="left">
-  🚀 Em momentos livres, gosto de aprender sobre comportamento humano e assistir a lançamentos de foguetes.
-</p>
 
 
-### Contate-me:
+### Contatos:
  <a href = "https://www.linkedin.com/in/srdmatheus"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:srdmatheus@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 <br>
